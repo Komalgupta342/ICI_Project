@@ -906,7 +906,7 @@ button {
   color: #101115;
 }
 .default-pagination li a:hover, .default-pagination li a.active {
-  background: #f16126;
+  background: #15b389;
   box-shadow: none;
   color: #fff;
 }
@@ -1112,7 +1112,7 @@ button {
 .or::before, .or::after {
   top: 50%;
   left: 50%;
-  background: #f16126;
+  background: #15b389;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
@@ -1207,7 +1207,7 @@ button {
   z-index: 9999;
   width: 100%;
   height: 100%;
-  background: #f16126;
+  background: #15b389;
 }
 .preloader .preloader-inner {
   position: absolute;
@@ -1744,7 +1744,7 @@ button {
 }
 .post-item.style-3 .post-inner .post-content .lab-btn {
   background: transparent;
-  border: 2px solid #f16126;
+  border: 2px solid #15b389;
 }
 .post-item.slider-post .post-inner:hover .post-thumb.post-thumb-slider .post-thumb-slider-next {
   left: 10px;
@@ -1775,7 +1775,7 @@ button {
   transition: all 0.3s ease;
 }
 .post-item.slider-post .post-inner .post-thumb.post-thumb-slider .post-thumb-slider-next:hover, .post-item.slider-post .post-inner .post-thumb.post-thumb-slider .post-thumb-slider-next .active, .post-item.slider-post .post-inner .post-thumb.post-thumb-slider .post-thumb-slider-prev:hover, .post-item.slider-post .post-inner .post-thumb.post-thumb-slider .post-thumb-slider-prev .active {
-  background: #f16126;
+  background: #15b389;
   color: #fff;
 }
 .post-item.slider-post .post-inner .post-thumb.post-thumb-slider .post-thumb-slider-next {
@@ -1920,9 +1920,9 @@ button {
 .contact-item .contact-thumb {
   max-width: 50px;
 }
-.contact-item .contact-content {
+/*.contact-item .contact-content {
   width: calc(100% - 50px);
-}
+}*/
 @media (max-width: 575px) {
   .event-item .event-inner {
     margin-bottom: 15px;
@@ -1943,7 +1943,7 @@ button {
 }
 .event-item .event-inner .event-content .event-date-info .edi-box {
   padding: 15px 10px;
-  border: 2px solid #f16126;
+  border: 2px solid #15b389;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   border-radius: 4px;
@@ -1994,7 +1994,7 @@ button {
   width: 100px;
   height: 100px;
   margin: 0 auto 30px;
-  border: 2px solid #f16126;
+  border: 2px solid #15b389;
   -webkit-border-radius: 100%;
   -moz-border-radius: 100%;
   border-radius: 100%;
@@ -2238,7 +2238,7 @@ button {
     top: 100%;
     position: absolute;
     content: "";
-    background: #f16126;
+    background: #15b389;
     -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
     transition: all 0.3s ease;
@@ -2389,7 +2389,7 @@ button {
   height: 50px;
   line-height: 50px;
   width: 50px;
-  color: #f16126;
+  color: #15b389;
   background: transparent;
   -webkit-border-radius: 0;
   -moz-border-radius: 0;
@@ -2615,7 +2615,8 @@ button {
     -ms-transform: scaleY(0);
     transform: scaleY(0);
     transform-origin: top;
-    background: #f16126;
+    background: #15b389;
+    
     backdrop-filter: blur(20px);
     -webkit-backdrop-filter: blur(20px);
   }
@@ -2786,7 +2787,7 @@ button {
   right: 4px;
 }
 .shop-menu li:hover > a {
-  color: #f16126 !important;
+  color: #15b389 !important;
 }
 .shop-menu li:hover > a::before {
   -webkit-transform: translateY(-50%) rotate(0deg);
@@ -2795,10 +2796,10 @@ button {
   opacity: 1;
 }
 .shop-menu li:hover > a:hover::after, .shop-menu li:hover > a:hover::before {
-  background: #f16126;
+  background: #15b389;
 }
 .shop-menu li.open > a::after {
-  background: #f16126;
+  background: #15b389;
 }
 .shop-menu li.open > a::before {
   -webkit-transform: translateY(-50%) rotate(90deg);
@@ -2961,7 +2962,7 @@ button {
   right: 19%;
 }
 .banner-section .cbs-content-list ul li.shape-2 a {
-  background-image: linear-gradient(to right, #ff5dcc, #ff4ca2, #ff4878, #ff514f, #f16126);
+  background-image: linear-gradient(to right, #ff5dcc, #ff4ca2, #ff4878, #ff514f, #15b389);
 }
 .banner-section .cbs-content-list ul li.shape-2 a::after {
   left: -40px;
@@ -3094,7 +3095,7 @@ button {
 }
 .banner-section .section-wrapper .banner-content form button {
   color: #fff;
-  background: #f16126;
+  background: #15b389;
 }
 .banner-section .section-wrapper .banner-content .banner-catagory {
   margin-top: 25px;
@@ -3139,7 +3140,7 @@ button {
   width: 50%;
   height: 100%;
   top: 0;
-  border-bottom: 875px solid #f16126;
+  border-bottom: 875px solid #15b389;
   border-right: 960px solid transparent;
   z-index: 1;
 }
@@ -4350,7 +4351,7 @@ button {
 .workshop-join .section-wrapper .workshop-title h5::after {
   right: -30px;
   top: 0;
-  border-left: 30px solid #f16126;
+  border-left: 30px solid #15b389;
   border-top: 44px solid transparent;
 }
 @media (max-width: 575px) {
@@ -5523,7 +5524,7 @@ button {
   border-radius: 2px;
 }
 .shop-single .review .review-content .review-showing .client-review .review-form .review-title h5::after {
-  border-bottom: 4px dotted #f16126;
+  border-bottom: 4px dotted #15b389;
   width: 20px;
   bottom: -20px;
   left: 55px;
@@ -5759,7 +5760,7 @@ button {
   }
 }
 .shop-cart .section-wrapper .cart-bottom .cart-checkout-box .cart-checkout input[type=submit]:hover {
-  border-color: #f16126;
+  border-color: #15b389;
 }
 .shop-cart .section-wrapper .cart-bottom .shiping-box {
   padding: 30px 20px;
@@ -6256,7 +6257,7 @@ button {
   border-radius: 2px;
 }
 .blog-single .section-wrapper .post-item .post-inner .post-content .tags-section .tags li a:hover, .blog-single .section-wrapper .post-item .post-inner .post-content .tags-section .tags li a .active {
-  border-color: #f16126;
+  border-color: #15b389;
 }
 .blog-single .section-wrapper .post-item .post-inner .post-content .tags-section .scocial-media {
   width: calc(100% / 1);
@@ -6537,7 +6538,7 @@ footer.style-2 .footer-top.dark-view * {
   font-weight: 600;
 }
 .footer-bottom .section-wrapper p a:hover {
-  color: #f16126;
+  color: #15b389;
 }
 
 .news-footer-wrap {
